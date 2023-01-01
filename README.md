@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Syed Rafat
-- 👀 I’m interested in Javascript, Python, Web dev, React, Nextjs, Django restframework.
-- 🌱 I’m currently learning Next.js
+- 👀 I’m a full stack web developer using Javascript, Python, React, Nextjs, Django restframework.
+- 🌱 I also know data science.
 - 💞️ I’m looking to collaborate on Web development project of any kind.
 - 📫 How to reach me --> hoqrafat@gmail.com
 
